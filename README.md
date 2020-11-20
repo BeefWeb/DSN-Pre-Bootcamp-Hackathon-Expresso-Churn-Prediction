@@ -6,14 +6,14 @@ Expresso is an African telecommunications company that provides customers with a
 My Approach
 
 * Handled Missing Values
-*Preprocessed Catgegorical variables by mapping them
-*Feature Generation
-*KFold Validation
-*Model Blending
+* Preprocessed Catgegorical variables by mapping them
+* Feature Generation
+* KFold Validation
+* Model Blending
 
 Improvements that can be made
 
-*Feature Selection
-*Handling missing data more efficiently
-*Hyper-parameter tuning
-*Trying other algorithm
+* Feature Selection
+* Handling missing data more efficiently
+* Hyper-parameter tuning
+* Trying other algorithm
