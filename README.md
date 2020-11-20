@@ -5,7 +5,7 @@ Expresso is an African telecommunications company that provides customers with a
 
 My Approach
 
-*Handled Missing Values
+* Handled Missing Values
 *Preprocessed Catgegorical variables by mapping them
 *Feature Generation
 *KFold Validation
