@@ -6,14 +6,16 @@ Expresso is an African telecommunications company that provides customers with a
 My Approach
 
 * Handled Missing Values
-* Preprocessed Catgegorical variables by mapping them
+* Preprocessed Categorical variables 
+* Did Exploratory Data Analysis
+* Used Missingno to handle  missing data visualizations and utilities that allowed me to get a quick visual summary of the completeness (or lack thereof) of the dataset. 
 * Feature Generation
 * KFold Validation
-* Model Blending
+
 
 Improvements that can be made
 
 * Feature Selection
 * Handling missing data more efficiently
 * Hyper-parameter tuning
-* Trying other algorithm
+* Trying some other algorithm
